@@ -94,5 +94,5 @@ Didistribusikan di bawah Lisensi MIT. Bebas digunakan, dimodifikasi, dan didistr
 
 ---
 <p align="center">
-  Dibuat dengan ❤️ untuk presentasi Dosen yang memukau!
+  ENERGY AUDIT
 </p>
